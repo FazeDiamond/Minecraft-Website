@@ -1,1 +1,29 @@
-init
+/* --silver: #919098ff;
+--yellow: #f6bd60ff;
+--navy: #283044ff;
+--red: #972d07ff;
+--purple: #cfbcdfff; */
+body
+{
+  font-family: 'Stalinist One';
+  margin: 0;
+}
+.title
+{
+  color: #f6bd60ff;
+  font-size: 100px;
+}
+.header
+{
+  width: 1920px;
+  height: 500px;
+  background-image: url('header.jpg');
+  background-repeat: no-repeat;
+  text-align: center;
+  align-self: center;
+}
+.mdescrip
+{
+  color: #cfbcdfff;
+  font-size: 50px;
+}
