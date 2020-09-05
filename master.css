@@ -15,7 +15,7 @@ body
 }
 .header
 {
-  width: 1920px;
+  width: 1910px;
   height: 500px;
   background-image: url('header.jpg');
   background-repeat: no-repeat;
@@ -35,7 +35,7 @@ body
 .navbar
 {
   background-color: #283044ff;
-  width: 1920px;
+  width: 1910px;
   height: 100px;
 }
 .button
@@ -54,4 +54,31 @@ body
 {
   border-color: #919098ff;
   background-color: #972d07ff;
+}
+.row
+{
+  display: flex;
+  flex-wrap: wrap;
+}
+.side
+{
+  flex: 30%;
+  height: 650px;
+  background-color: #283044ff;
+}
+.main
+{
+  flex: 70%;
+  background-color: #919098ff;
+  height: 650px;
+}
+.sidetitle
+{
+  text-align: center;
+  font-size: 35px;
+}
+.maintitle
+{
+  text-align: center;
+  font-size: 35px;
 }

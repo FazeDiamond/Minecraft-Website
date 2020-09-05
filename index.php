@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="master.css">
     <link href='https://fonts.googleapis.com/css?family=Stalinist One' rel='stylesheet'>
+    <link rel="shortcut icon" href="Minecraft.jpg">
     <title>Minecraft Website</title>
   </head>
   <body>
@@ -18,6 +19,13 @@
         <h1 class="title">Minecraft Website</h1>
         <p class="mdescrip">A Place for all Minecrafters!</p>
     </div>
-
+    <div class="row">
+      <div class="side">
+          <h2 class="sidetitle">Get Minecraft</h2>
+      </div>
+      <div class="main">
+          <h2 class="maintitle">Welcome to the Minecraft Website!</h2>
+      </div>
+    </div>
   </body>
 </html>
