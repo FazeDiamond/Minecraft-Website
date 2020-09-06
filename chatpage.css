@@ -60,40 +60,9 @@ body
   display: flex;
   flex-wrap: wrap;
 }
-.side
-{
-  flex: 30%;
-  height: 750px;
-  background-color: #283044ff;
-}
 .main
 {
-  flex: 70%;
+  flex: 100%;
+  height: 600px;
   background-color: #919098ff;
-  height: 750px;
-}
-.sidetitle
-{
-  text-align: center;
-  font-size: 35px;
-}
-.maintitle
-{
-  text-align: center;
-  font-size: 35px;
-}
-.txt
-{
-  color: #972d07ff;
-}
-.link
-{
-  color: #919098ff;
-  text-decoration: none;
-  cursor: pointer;
-}
-.image
-{
-  width: 550;
-  height: 309;
 }

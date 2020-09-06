@@ -16,24 +16,11 @@
     </nav>
     <div class="header">
         <br><br>
-        <h1 class="title">Minecraft Website</h1>
-        <p class="mdescrip">A Place for all Minecrafters!</p>
+        <h1 class="title">Chat</h1>
+        <p class="mdescrip">Chat with other people about Minecraft and ask questions</p>
     </div>
-    <div class="row">
-      <div class="side">
-          <h2 class="sidetitle">Get Minecraft</h2>
-          <ol>
-            <li class="txt">Go to the <a class="link" target="_blank" href="https://www.minecraft.net/en-us">Minecraft Website</a></li>
-            <li class="txt">Click on "Get Minecraft".</li>
-            <li class="txt">Select the type of device you want to play on.</li>
-            <li class="txt">Click on which edition you would like. (ON PC's, You can cross-play Minecraft on Windows 10 edition)</li>
-            <li class="txt">Click on "Buy Minecraft".</li>
-          </ol>
-          <pre> <img src="img.jpg" alt="Minecraft" class="img"></pre>
-      </div>
-      <div class="main">
-          <h2 class="maintitle">Welcome to the Minecraft Website!</h2>
-      </div>
+    <div class="main">
+      <pre>            <iframe src="https://minnit.chat/MinecraftHuman?embed&nickname=" style="border:none;width:90%;height:500px;" allowTransparency="true"></iframe></pre>
     </div>
   </body>
 </html>
