@@ -17,7 +17,7 @@ body
 {
   width: 1910px;
   height: 500px;
-  background-image: url('header.jpg');
+  background-image: url('/assets/header.jpg');
   background-repeat: no-repeat;
   text-align: center;
   align-self: center;
@@ -88,7 +88,7 @@ body
 }
 .link
 {
-  color: #919098ff;
+  color: #f6bd60ff;
   text-decoration: none;
   cursor: pointer;
 }
@@ -96,4 +96,11 @@ body
 {
   width: 550;
   height: 309;
+}
+.link1
+{
+  color: #f6bd60ff;
+  text-decoration: none;
+  cursor: pointer;
+  font-family: 'Stalinist One';
 }
