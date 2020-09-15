@@ -8,6 +8,16 @@ body
   font-family: 'Stalinist One';
   margin: 0;
 }
+::selection
+{
+  color: #00ffff;
+  background: #00ff00;
+}
+::-moz-selection
+{
+  color: #00ffff;
+  background: #00ff00;
+}
 .title
 {
   color: #f6bd60ff;
