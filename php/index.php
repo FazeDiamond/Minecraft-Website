@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="master.css">
+    <link rel="stylesheet" href="/css/master.css">
     <link href='https://fonts.googleapis.com/css?family=Stalinist One' rel='stylesheet'>
     <link rel="shortcut icon" href="/assets/Minecraft.jpg">
     <title>Minecraft Website</title>
@@ -10,13 +10,13 @@
   <body>
     <nav class="navbar">
       <pre class="prfrmt">                               <button onclick="window.location.href='index.php';" class="button button1" type="button" name="button">Home</button></pre>
-      <pre class="prfrmt">                               <button onclick="window.location.href='#';" class="button button1" type="button" name="button">Link1</button></pre>
+      <pre class="prfrmt">                               <button onclick="window.location.href='aboutus.php';" class="button button1" type="button" name="button">About</button></pre>
       <pre class="prfrmt">                               <button onclick="window.location.href='#';" class="button button1" type="button" name="button">Link2</button></pre>
       <pre class="prfrmt">                               <button onclick="window.location.href='#';" class="button button1" type="button" name="button">Link3</button></pre>
     </nav>
     <div class="header">
         <br><br>
-        <h1 class="title">Minecraft Website</h1>
+        <h1 class="title">The Minecraft Tree</h1>
         <p class="mdescrip">A Place for all Minecrafters!</p>
     </div>
     <div class="row">
@@ -34,11 +34,9 @@
       <div class="main">
           <h2 class="maintitle">Welcome to the Minecraft Website!</h2>
             <h3 align="center">What is this?</h3>
-            <p align="center">This is the Minecraft Website. One of the most loved Minecraft tools. You get two free courses
+            <p align="center">This is The Minecraft Tree. One of the most loved Minecraft tools. You get two free courses
             along with the latest Minecraft updates. If any of those don't help, you can contact a real person and he will be right
           with you. I hope you guys find this website useful and helpful</p>
-          <br><h4 align="center">Social Media Links:</h4>
-          <pre>                                                                             <a class="link1" href="#">Discord</a></pre>
           <h3 align="center">Go Minecraft!</h3>
           <pre>                                              <img src="/assets/minecraft1.jpg" alt="minecraft"></pre>
     </div>
